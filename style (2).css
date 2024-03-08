@@ -3,10 +3,10 @@
  padding: 0;
 }
 
-.cabeçalho { 
+.cabeçalho{ 
     background-color: #bb1632;
-    color: white
-    display: flex ;
+    color:  red;
+    display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
